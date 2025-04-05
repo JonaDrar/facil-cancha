@@ -1,0 +1,51 @@
+API Reserva de Canchas
+
+- Información del cliente **
+  - Nombre
+  - Apellido
+  - Teléfono
+  - Correo electrónico
+
+- Reservas **
+  - ID de reserva
+  - ID de cancha
+  - ID de cliente
+  - Fecha y hora de la reserva
+  - Monto a pagar
+  - Estado de la reserva (confirmada, cancelada, pagada)
+
+* ACCIONES *
+- Reservar cancha ✅
+  - Seleccionar tipo de cancha ✅
+  - Seleccionar fecha y hora (Revisar disponibilidad) ✅
+  - Ingresar información del cliente (id de quien reserva) ✅
+  - Confirmar reserva ✅
+
+- Consultar reservas ✅
+  - Filtrar por fecha ✅
+  - Filtrar por cliente ✅
+  - Filtrar por estado de reserva ✅
+  - Mostrar detalles de la reserva (id de reserva, id de cancha, id de cliente, fecha y hora, monto a pagar, estado) ✅
+
+- Pagar reserva ✅
+  - Seleccionar reserva existente (id de reserva) ✅
+  - Ingresar información de pago (método de pago) ✅
+  - Confirmar pago ✅
+
+- Cancelar reserva
+  - Seleccionar reserva existente (id de reserva)
+  - Que la persona que reserva sea la misma que cancela
+  - (Validar tiempo antes de la reserva para cancelación)
+  - Confirmar cancelación
+
+- Editar reserva
+  - Seleccionar reserva existente (id de reserva)
+  - Modificar fecha y hora (Revisar disponibilidad)
+  - Confirmar cambios
+
+- Consultar disponibilidad
+  - Seleccionar tipo de cancha
+  - Seleccionar fecha y hora
+  - Mostrar disponibilidad (disponible, no disponible)
+  - Mostrar reservas existentes (id de reserva, id de cancha, id de cliente, fecha y hora, monto a pagar, estado)
+

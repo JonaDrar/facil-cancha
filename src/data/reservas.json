@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "cancha": "futbol5",
+    "cliente": "123123-12312-3123",
+    "fecha_hora": "2025-04-05T20:00:00-03:00",
+    "monto": 50,
+    "estado": "pagada"
+  },
+  {
+    "id": "3e0b4d8d-9926-4797-a357-c27965cc9c66",
+    "cancha": "futbol5",
+    "fecha_hora": "2025-04-05T21:00-03:00",
+    "cliente": "12312-312412-2132312",
+    "estado": "pagada",
+    "monto": 50
+  },
+  {
+    "id": "81756adc-f1b6-4e78-ac7b-d65acc44a60d",
+    "cancha": "futbol5",
+    "fecha_hora": "2025-04-05T22:00-03:00",
+    "cliente": "12312-312412-2132312",
+    "estado": "confirmada",
+    "monto": 50
+  },
+  {
+    "id": "1d096bc3-2afa-4a2d-8fd2-c1be8621e163",
+    "cancha": "futbol11",
+    "fecha_hora": "2025-04-05T22:00-03:00",
+    "cliente": "12312-312412-2132312",
+    "estado": "confirmada",
+    "monto": 100
+  },
+  {
+    "id": "cb0032d9-0a97-44f1-ab6b-d212ff91d3fe",
+    "cancha": "padel",
+    "fecha_hora": "2025-04-05T22:00-03:00",
+    "cliente": "12312-312412-2132312",
+    "estado": "pagada",
+    "monto": 30
+  },
+  {
+    "id": "d98b3932-15a5-4c64-b71a-b12d2285ec70",
+    "cancha": "tenis",
+    "fecha_hora": "2025-04-06T20:00-04:00",
+    "cliente": "12312-312412-2132312",
+    "estado": "confirmada",
+    "monto": 30
+  },
+  {
+    "id": "16ca4fb5-442c-4c36-9c1e-963a674faa78",
+    "cancha": "tenis",
+    "fecha_hora": "2025-04-06T21:00-04:00",
+    "cliente": "12312-312412-45454545",
+    "estado": "confirmada",
+    "monto": 30
+  },
+  {
+    "id": "c8f51a1b-6767-43b9-83da-65cb07bc416b",
+    "cancha": "tenis",
+    "fecha_hora": "2025-04-06T19:00-04:00",
+    "cliente": "12312-312412-45454545",
+    "estado": "pagada",
+    "monto": 30
+  },
+  {
+    "id": "6250ca57-40aa-4a81-bbfe-0e3a84c69f9d",
+    "cancha": "tenis",
+    "fecha_hora": "2025-04-06T18:00-04:00",
+    "cliente": "12312-312412-45454545",
+    "estado": "cancelada",
+    "monto": 30
+  },
+  {
+    "id": "3702618f-9f35-4ea3-bd77-2df69446c36d",
+    "cancha": "tenis",
+    "fecha_hora": "2025-04-07T18:00-04:00",
+    "cliente": "12312-312412-45454545",
+    "estado": "confirmada",
+    "monto": 30
+  }
+]

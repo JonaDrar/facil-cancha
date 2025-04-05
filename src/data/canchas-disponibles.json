@@ -1,0 +1,22 @@
+{
+  "futbol5": {
+    "duracion": 60,
+    "precio": 50
+  },
+  "futbol7": {
+    "duracion": 60,
+    "precio": 70
+  },
+  "futbol11": {
+    "duracion": 90,
+    "precio": 100
+  },
+  "tenis": {
+    "duracion": 60,
+    "precio": 30
+  },
+  "padel": {
+    "duracion": 60,
+    "precio": 30
+  }
+}
